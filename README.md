@@ -5,5 +5,5 @@
 <h3>Formato desktop e Mobile</h3>
 <img src="https://github.com/Verneloira/Easy-shopping/blob/main/assets/Desktop2.png"/>
 
-<img src=""/>
+<img src="https://github.com/Verneloira/Easy-shopping/blob/main/assets/Mobile2.png"/>
 
